@@ -25,8 +25,3 @@ My name is Ridho Azkia Azhar, and I'm a Junior Web Developer. I'm passionate abo
 </div>
 
 <hr />
-</br>
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ridhoibey0&color=brightgreen&style=flat-square&label=PROFILE+VIEWS +"
-        width="130" /><br />
-</div>

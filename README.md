@@ -9,5 +9,5 @@ My name is Ridho Azkia Azhar, and I'm a Junior Web Developer. I'm passionate abo
    | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ridhoibey0&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&cache_seconds=7200" alt="Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhoibey0&layout=compact&theme=transparent&hide_border=true&cache_seconds=7200" /> |
 | ------------- | ------------- |
 
-![***](https://raw.githubusercontent.com/esyede/esyede/output/github-contribution-grid-snake.svg)
+![***](https://raw.githubusercontent.com/ridhoibey0/ridhoibey0/output/github-contribution-grid-snake.svg)
 <hr />
